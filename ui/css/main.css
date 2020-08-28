@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  background: black;
+  padding: 1rem;
+}
+
+.menu {
+  color: white;
+}

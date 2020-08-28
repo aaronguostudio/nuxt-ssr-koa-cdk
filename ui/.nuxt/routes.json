@@ -1,0 +1,16 @@
+[
+  {
+    "name": "tools",
+    "path": "/tools",
+    "component": "/Users/xianghuiguo/workflow/projects/nuxt-ssr-koa-cdk/ui/pages/tools.vue",
+    "chunkName": "pages/tools",
+    "_name": "_004863a1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/xianghuiguo/workflow/projects/nuxt-ssr-koa-cdk/ui/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_303321d0"
+  }
+]
